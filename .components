@@ -1,0 +1,9 @@
+---
+:orm: activerecord
+:test: shoulda
+:mock: none
+:script: none
+:renderer: erb
+:stylesheet: none
+:namespace: Ecommerce
+:migration_format: number
